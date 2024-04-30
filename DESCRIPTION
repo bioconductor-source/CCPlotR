@@ -1,6 +1,6 @@
 Package: CCPlotR
 Title: Plots For Visualising Cell-Cell Interactions
-Version: 1.1.0
+Version: 1.2.0
 Authors@R: c(
     person("Sarah", "Ennis", email = "ennissarah94@gmail.com", role = c("aut", "cre"), 
            comment = c(ORCID = "0000-0001-6100-8573")),
